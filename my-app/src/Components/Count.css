@@ -1,0 +1,23 @@
+.buttons {
+    font-size: 15px;
+    display: inline-block;
+    
+}
+.button{
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    border-style: none;
+    cursor: pointer;
+}
+.increment{
+    background: #0096FF;
+    
+}
+.decrement{
+    background: #D2042D;
+    
+}
